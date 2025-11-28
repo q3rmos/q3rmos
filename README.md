@@ -1,16 +1,17 @@
-## Hi there 👋
+## 📫 Contacts
 
-<!--
-**q3rmos/q3rmos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://t.me/q3rmos" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Telegram-@q3rmos-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"
+      alt="Telegram @q3rmos"
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:kizilovnkite@gmail.com" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Email-kizilovnkite%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email kizilovnkite@gmail.com"
+    />
+  </a>
+</p>
